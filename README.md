@@ -28,7 +28,7 @@
 ### 💫 Current Mission
 
 ```text
-🔭  Project: Building an intelligent multi-platform hub for gamers & creators
+🔭  Project: Building an intelligent multi-platform hub
 ⚙️  Focus: Real-time, decentralized, AI-driven interaction
 🧩  Challenge: Redefine speed, design, and engagement
 ```
@@ -41,4 +41,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moohhiit&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f0ff&text_color=ffffff&langs_count=6" />
 </p>
 
-<p align="center"> <a href="https://github.com/Prince8879"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00f0ff" /></a> <a href="https://www.linkedin.com/in/princetiwari8879/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00f0ff" /></a> <a href="mailto:itzmohitsharma20@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00f0ff" /></a> </p>
+<p align="center"> <a href="https://github.com/Prince8879"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00f0ff" /></a> <a href="https://www.linkedin.com/in/princetiwari8879/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00f0ff" /></a> <a href="mailto:tiwariprince0014@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00f0ff" /></a> </p>

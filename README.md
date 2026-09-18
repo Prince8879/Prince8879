@@ -20,7 +20,7 @@
 ### 🛸 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,firebase,python,tensorflow,mongodb,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,python,jupyter,aws,linux,mongodb,git,vscode&theme=dark" />
 </p>
 
 ---

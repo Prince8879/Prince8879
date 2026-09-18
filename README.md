@@ -20,7 +20,7 @@
 ### 🛸 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,aws,docker,PowerBi,mongodb,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,linux,aws,docker,powerBi,mongodb,git,vscode&theme=dark" />
 </p>
 
 ---

@@ -10,10 +10,10 @@
 
 > “The future belongs to those who code it.”
 
-- 🧠 **AI • Full-Stack • Systems Thinker**
+- 🧠 **AI • Cloud • **
 - 🛠️ Building futuristic apps that **move fast** and **scale infinitely**
 - 🌍 Dream: a connected world where **humans and AI** co-create
-- 🧬 Exploring **Neural Interfaces**, **AR/VR**, and **Cyber-Intelligence**
+- 🧬 Exploring **New Technologies**, **AR/VR**, and **Cyber-Intelligence**
 
 ---
 

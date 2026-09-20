@@ -28,8 +28,8 @@
 ### 💫 Current Mission
 
 ```text
-🔭  Project: Building an intelligent multi-platform hub
-⚙️  Focus: Real-time, decentralized, AI-driven interaction
+🔭  Project: Building an Platform for multi-purpose
+⚙️  Focus: Real-time, decentralized, AI-driven interaction , Problem Solving 
 🧩  Challenge: Redefine speed, design, and engagement
 ```
 

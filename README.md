@@ -1,7 +1,7 @@
 ﻿<!-- Futuristic GitHub Profile by Mohit Sharma -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Prince+Tiwari!;🚀+Futurist+DevOps Engineer;💡+Innovator+%26+Tech+Dreamer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Mohit+Sharma!;🚀+Futurist+Developer;💡+Innovator+%26+Tech+Dreamer;" alt="Typing SVG" />
 </h1>
 
 

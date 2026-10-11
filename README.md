@@ -12,7 +12,7 @@
 - 🧠 **AI • Cloud • **
 - 🛠️ Building futuristic apps that **move fast** and **scale infinitely**
 - 🌍 Dream: a connected world where **humans and AI** co-create
-- 🧬 Exploring **New Technologies**, **AR/VR**, and **Cyber-Intelligence**
+- 🧬 Exploring **New Technologies**, **DevOps**, and **Cyber-Intelligence**
 
 ---
 
